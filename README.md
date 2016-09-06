@@ -1,0 +1,2 @@
+# Test4_ListView
+>ListView可以适配两种适配器：数组适配器ArrayAdapter和简单适配器SimpleAdapter，ArrayAdapter适用于相对简单的只包含文字的数据显示，而SimpleAdapter却不简单，适用于相对复杂的可包含图片、按钮等控件的数据列表。
