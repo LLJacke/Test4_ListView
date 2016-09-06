@@ -1,4 +1,4 @@
-package com.lljackie.stlist;
+package com.lljackie.Test4_ListView;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

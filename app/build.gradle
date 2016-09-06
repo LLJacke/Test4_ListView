@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.lljackie.stlist"
+        applicationId "com.lljackie.test4_listview"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
